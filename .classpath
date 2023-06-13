@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/com.springsource.javax.jdo-2.1.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/persistence.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-aop-4.3.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-beans-4.3.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-boot-1.5.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-context-4.3.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-core-4.3.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-expression-4.3.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-jdbc-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-jdbc-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-jdbc-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-orm-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-orm-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-orm-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-tx-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-tx-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-tx-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-web-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-web-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-web-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-boot-starter-security-2.6.7.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-security-config-6.1.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
